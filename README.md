@@ -71,11 +71,11 @@ Every asset profile undergoes a comprehensive 5-phase research evaluation:
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshot/dashboard.png)
 
 ### Reports
 
-![Reports](screenshots/reports.png)
+![Reports](screenshot/reports.png)
 
 ---
 
