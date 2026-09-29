@@ -8,6 +8,12 @@ An institutional-grade desktop due diligence terminal built for discretionary cu
 
 Instead of relying on retail indicators and surface-level noise, **Forex Ai Analyst** executes a structured **5-Layer Due Diligence Framework** that synthesizes central bank policy, sovereign yields, institutional CFTC COT positioning, retail sentiment crowd traps, and Smart Money order blocks into actionable execution plans.
 
+<p align="center">
+  <a href="/Forex-Ai-Analyst.exe">
+    <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD-WINDOWS%20EXE-2ea44c?style=for-the-badge" alt="Download Windows EXE">
+  </a>
+</p>
+
 ---
 
 ## 🏛️ What Makes It Different?
