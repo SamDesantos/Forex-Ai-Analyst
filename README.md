@@ -2,7 +2,7 @@
 
 [![Platform](https://img.shields.io/badge/Platform-Windows%20x64%20(Desktop%20EXE)-0078D6?style=flat-square&logo=windows&logoColor=white)](https://github.com/SamDesantos/)
 [![Status](https://img.shields.io/badge/Release-v1.0.0%20Stable-10B981?style=flat-square)](https://github.com/SamDesantos/)
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+[![License: Apache 2.0](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 An institutional-grade desktop due diligence terminal built for discretionary currency traders, macro fund managers, and prop firm desks. 
 
