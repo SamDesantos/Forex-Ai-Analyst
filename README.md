@@ -67,6 +67,18 @@ Every asset profile undergoes a comprehensive 5-phase research evaluation:
 
 ---
 
+## 📸 Screenshots
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Reports
+
+![Reports](screenshots/reports.png)
+
+---
+
 ## 🔒 Privacy & Local State
 
 * **No Mandatory Cloud Accounts:** Your custom alerts, saved reports, and watchlists are stored directly in your local desktop environment.
